@@ -2,4 +2,8 @@
 
 ### 你好，世界 👋
 
-- :orange_book: a rookie engineer of javascript
+Hello, i'm a Front-end engineer, like to build anything.
+
+- I am learning English.
+- Usually use `React`, I also like `Vue`.
+- ...
