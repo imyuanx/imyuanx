@@ -2,7 +2,7 @@
 
 ### 你好，世界 👋
 
-Hello, i'm a Front-end engineer, like to build anything.
+Hello, I'm a front-end engineer and I like to build anything.
 
 - I am learning English.
 - Usually use `React`, I also like `Vue`.
