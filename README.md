@@ -6,5 +6,5 @@ Hello, I'm a front-end engineer and I like to build anything.
 
 - I am learning English.
 - Usually use `React`, I also like `Vue`.
-- [Mail me at lonelyuanx@gmail.com](mailto:lonelyuanx@gmail.com)
+- [Mail me at yuanx.me@gmail.com](mailto:yuanx.me@gmail.com)
 - ...
